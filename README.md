@@ -18,7 +18,7 @@
 
 <h1 align="center">Features</h1>
 
-#### Player
+#### Menu
 
 - Hit Multiplier
 - God Mode
