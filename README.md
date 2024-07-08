@@ -34,4 +34,4 @@
 - ESP
 - Fly
 
-## Paid With More Features is available.
+## Paid Wuwa Slash With More Features is available.
