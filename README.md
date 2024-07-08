@@ -33,3 +33,5 @@
 - World Speed
 - ESP
 - Fly
+
+## Paid With More Features is available.
