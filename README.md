@@ -4,8 +4,8 @@
   <img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://i.imgur.com/NjqitKJ.png">
 </p>
 
-<p align="center"> To Download New Version Come Join Our Discord : 
- <a href="https://discord.gg/cq7Q8A4yAs"><img src="https://img.shields.io/discord/1265657372563607574?label=Discord&logo=discord&style=for-the-badge"></a>
+<p align="center"> To Download New Version Come Join Our Discord <br/>
+ <a href="https://discord.gg/cq7Q8A4yAs"><img alt="Discord" src="https://img.shields.io/discord/1265657372563607574?style=for-the-badge&logo=discord&label=Discord&link=https%3A%2F%2Fdiscord.gg%2Fcq7Q8A4yAs"></a>
 </p>
 
 
