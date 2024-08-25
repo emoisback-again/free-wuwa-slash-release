@@ -4,9 +4,10 @@
   <img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://i.imgur.com/NjqitKJ.png">
 </p>
 
-<p align="center">
- <a href="https://discord.gg/pk2hWxjSeB"><img src="https://img.shields.io/discord/1208306135271084053?label=Discord&logo=discord&style=for-the-badge"></a>
+<p align="center"> To Download New Version Come Join Our Discord : 
+ <a href="https://discord.gg/cq7Q8A4yAs"><img src="https://img.shields.io/discord/1265657372563607574?label=Discord&logo=discord&style=for-the-badge"></a>
 </p>
+
 
 ### Usage
 
