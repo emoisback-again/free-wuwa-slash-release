@@ -1,7 +1,7 @@
 # Free Wuwa Slash Release
 
 <p align="center">
-  <img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://i.imgur.com/NjqitKJ.png">
+  <img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://media.discordapp.net/attachments/1267295642372542484/1278725785133514874/image.png?ex=66d1d9b0&is=66d08830&hm=00129e1208a795bfec475aa4fa5b9a32ded62cfc734b6344dc4229359f895935&=&format=webp&quality=lossless">
 </p>
 
 # To Download New Version Come Join Our Discord
@@ -22,20 +22,35 @@
 
 <h1 align="center">Features</h1>
 
-#### Menu
-
-- Hit Multiplier
-- God Mode
+#### Player
+- Multi Hits
 - No Skill Cooldown
-- Fast Energy
+- God Mode
 - No Fall Damage
-- Auto Destroy
-
-#### Coming Soon
-
+- Always Crit
+- Infinite Ultimate Energy
+- Infinite Special Energy
+- Infinite Stamina
+- Infinite Intro Outro
 - Player Speed
-- World Speed
-- ESP
-- Fly
 
-## Paid Wuwa Slash With More Features is available.
+#### World
+- World Speed
+- Dumb Enemies
+- Enemy Vacuum
+- Auto Destroy ( Mining )
+
+#### ESP
+- ESP Monster
+- ESP Chest
+- ESP Collectible
+- ESP Others
+- ESP Teleport
+
+#### MISC
+- Unlock FPS
+- Plot Skip
+- Set UID
+- Fly (No Clip)
+
+## Paid Wuwa Slash With More Features is available, Join Our Slash Community.
